@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **VFX in Unity and Backend (and to program better)**
 
-- 📫 Reach me in **farhanarieframadhan@mail.ugm.ac.id**
+- 📫 Reach me through **farhanarieframadhan@mail.ugm.ac.id**
 
 - 📄 See my portfolio [here!](https://www.canva.com/design/DAFQWMQEedk/bX5KBdrc4QxY3SN0_eVZ7w/edit?utm_content=DAFQWMQEedk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
