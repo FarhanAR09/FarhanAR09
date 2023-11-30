@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Farhan Arief Ramadhan</h1>
-<h3 align="center">a Game and Fullstack Mobile App Developer from Jogja, Indonesia (mainly Unity and Flutter)</h3>
+<h3 align="center">a Game and Fullstack Mobile App Developer (mainly Unity and Flutter)</h3>
+<h3 align="center">from Jogja, Indonesia</h3>
 
 - 🔭 Game Development on Itch.io: [Fractalistic Games](https://fractalistic-games.itch.io/)
 
