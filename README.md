@@ -4,7 +4,7 @@
 
 - 🔭 Game Development on Itch.io: [Fractalistic Games](https://fractalistic-games.itch.io/)
 
-- 🌱 I’m currently learning **VFX in Unity and Backend**
+- 🌱 I’m currently learning **VFX in Unity and Backend (and to program better)**
 
 - 📫 Reach me in **farhanarieframadhan@mail.ugm.ac.id**
 
